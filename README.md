@@ -7,4 +7,7 @@ Future improvents include:
 Making the movement smooth (not jumping from point to point)  
 Adding a ground around the track and adding trees (important to give sense of speed)  
 Positioning the camera behind the car correctly  
-Making a plugin so the variables of the car are easier to access instead of being hidden in the script section  
+Making a plugin so the variables of the car are easier to access instead of being hidden in the script section   
+
+
+The code to edit is the top of the scripting tab, marked by a comment. Once edited, click the play button on the top of the editor to apply your changes.
